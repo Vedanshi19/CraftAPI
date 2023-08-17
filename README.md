@@ -29,7 +29,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Add multiple remote APIs besides Mojang:
     * [MineTools](https://api.minetools.eu/)
 
-## Requirements
+## Requirementss
 
 * Java 8+
 * Gson (2.2.4+)
