@@ -5,7 +5,9 @@
 This is Minecraft library for contacting the Mojang API. It features modern features of Java and flexible way of
 communicating with Mojang. Furthermore, this project is used for experimenting with Unit-Tests.
 
-## Features
+## Featuressssssss
+
+mm
 
 * Minimal requirements to integrate it into Sponge, BungeeCord and Spigot
 * Compatibility with Minecraft 1.7.10+
@@ -19,7 +21,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Rotating proxies
 * Configurable amount of name -> uuid requests before using proxies
 
-## Planned
+## Plannedd
 
 * Unit testing for HTTP requests like in [google-http-client](https://github.com/google/google-http-java-client)
 * Service registration for Bukkit and Sponge
@@ -29,7 +31,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Add multiple remote APIs besides Mojang:
     * [MineTools](https://api.minetools.eu/)
 
-## Requirements
+## Requirementss
 
 * Java 8+
 * Gson (2.2.4+)
@@ -38,7 +40,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 ## Contribution
 
 This project is open for suggestions (including breaking changes between major version) and contributions. If you have 
-an idea to make this library, you are welcome to create an issue ticker or pull request. Please provide units for pull 
+idea to make this library, you are welcome to create an issue ticker or pull request. Please provide units for pull 
 requests if possible.
 
 ## Maven repository
@@ -70,6 +72,7 @@ requests if possible.
 Inspired by
 
 * Sponge's
+
 [GameProfileManager](https://jd.spongepowered.org/7.0.0/org/spongepowered/api/profile/GameProfileManager.html)
 [GameProfileCache](https://jd.spongepowered.org/7.0.0/org/spongepowered/api/profile/GameProfileCache.html)
 * [SquirrelId](https://github.com/EngineHub/SquirrelID)
